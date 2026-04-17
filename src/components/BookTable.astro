@@ -1,0 +1,93 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+type Props = {
+  books: CollectionEntry<"books">[];
+};
+
+const { books } = Astro.props;
+---
+
+<header class="site">
+  <h1>Library</h1>
+  <span class="counts">{books.length} books read</span>
+</header>
+
+<div class="controls">
+  <input type="search" id="search" placeholder="Search title, author, series…" autocomplete="off" />
+  <div class="sort" role="group" aria-label="Sort">
+    <label for="sort-select">Sort</label>
+    <select id="sort-select">
+      <option value="title">Title</option>
+      <option value="author" selected>Author</option>
+      <option value="series">Series</option>
+    </select>
+  </div>
+</div>
+
+<div class="book-grid" id="book-grid">
+  {books.map((b) => {
+    const d = b.data;
+    const seriesText = d.series ? `${d.series.name} #${d.series.position}` : "";
+    const seriesSortKey = d.series ? `${d.series.name} ${String(d.series.position).padStart(5, "0")}` : "";
+    return (
+      <article
+        class="book-card"
+        data-title={d.title.toLowerCase()}
+        data-author={d.author.toLowerCase()}
+        data-series={seriesSortKey.toLowerCase()}
+      >
+        <div class="cover">
+          {d.cover_url ? (
+            <img src={d.cover_url} alt={`Cover of ${d.title}`} loading="lazy" />
+          ) : (
+            <div class="cover-placeholder" aria-hidden="true">{d.title}</div>
+          )}
+        </div>
+        <div class="meta">
+          <div class="book-title">{d.title}</div>
+          <div class="book-author">{d.author}</div>
+          {seriesText && <div class="book-series">{seriesText}</div>}
+        </div>
+      </article>
+    );
+  })}
+</div>
+<div class="empty" id="empty-state" hidden>No books match your search.</div>
+
+<script>
+  const grid = document.getElementById("book-grid") as HTMLElement;
+  const searchInput = document.getElementById("search") as HTMLInputElement;
+  const sortSelect = document.getElementById("sort-select") as HTMLSelectElement;
+  const emptyState = document.getElementById("empty-state") as HTMLElement;
+
+  function applyFilter() {
+    const query = searchInput.value.trim().toLowerCase();
+    const cards = Array.from(grid.children) as HTMLElement[];
+    let visible = 0;
+    for (const card of cards) {
+      const hay = [card.dataset.title, card.dataset.author, card.dataset.series]
+        .join(" ")
+        .trim();
+      const show = !query || hay.includes(query);
+      card.style.display = show ? "" : "none";
+      if (show) visible++;
+    }
+    emptyState.hidden = visible > 0;
+  }
+
+  function applySort() {
+    const col = sortSelect.value;
+    const cards = Array.from(grid.children) as HTMLElement[];
+    cards.sort((a, b) => {
+      const av = a.dataset[col] ?? "";
+      const bv = b.dataset[col] ?? "";
+      return String(av).localeCompare(String(bv));
+    });
+    for (const card of cards) grid.appendChild(card);
+  }
+
+  searchInput.addEventListener("input", applyFilter);
+  sortSelect.addEventListener("change", applySort);
+  applySort();
+</script>

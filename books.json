@@ -1,0 +1,3703 @@
+[
+  {
+    "id": "pandora-s-star-hamilton",
+    "title": "Pandora's Star",
+    "author": "Peter F. Hamilton",
+    "series": {
+      "name": "Commonwealth Saga",
+      "position": 1
+    },
+    "isbn": "9780345461629",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "consider-phlebas-banks",
+    "title": "Consider Phlebas",
+    "author": "Iain M. Banks",
+    "series": {
+      "name": "Culture",
+      "position": 1
+    },
+    "isbn": "9781857231380",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "house-of-suns-reynolds",
+    "title": "House of Suns",
+    "author": "Alastair Reynolds",
+    "series": null,
+    "isbn": "9780575099128",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "children-of-time-tchaikovsky",
+    "title": "Children of Time",
+    "author": "Adrian Tchaikovsky",
+    "series": {
+      "name": "Children of Time",
+      "position": 1
+    },
+    "isbn": "9781447273288",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "seveneves-chinese-edition-stephenson",
+    "title": "SevenEves (Chinese Edition)",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9787508692753",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9787508692753-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "aftermath-alanson",
+    "title": "Aftermath",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 16
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "failure-mode-alanson",
+    "title": "Failure Mode",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 15
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "match-game-alanson",
+    "title": "Match Game",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 14
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "fallout-alanson",
+    "title": "Fallout",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 13
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "breakaway-alanson",
+    "title": "Breakaway",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 12
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "brushfire-alanson",
+    "title": "Brushfire",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 11
+    },
+    "isbn": "9798580899206",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "critical-mass-alanson",
+    "title": "Critical Mass",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 10
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "valkyrie-alanson",
+    "title": "Valkyrie",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 9
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "armageddon-alanson",
+    "title": "Armageddon",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 8
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "homefront-alanson",
+    "title": "Homefront",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 7.5
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "renegades-alanson",
+    "title": "Renegades",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 7
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "mavericks-alanson",
+    "title": "Mavericks",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 6
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "zero-hour-alanson",
+    "title": "Zero Hour",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 5
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "black-ops-alanson",
+    "title": "Black Ops",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 4
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "trouble-on-paradise-alanson",
+    "title": "Trouble on Paradise",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 3.5
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "paradise-alanson",
+    "title": "Paradise",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 3
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "specops-alanson",
+    "title": "SpecOps",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 2
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "sandworms-of-dune-herbert",
+    "title": "Sandworms of Dune",
+    "author": "Brian Herbert",
+    "series": {
+      "name": "Dune",
+      "position": 8
+    },
+    "isbn": "9780765312938",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765312938-M.jpg?default=false",
+    "status": "read",
+    "rating": 3,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "hunters-of-dune-herbert",
+    "title": "Hunters of Dune",
+    "author": "Brian Herbert",
+    "series": {
+      "name": "Dune",
+      "position": 7
+    },
+    "isbn": "9780765312921",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765312921-M.jpg?default=false",
+    "status": "read",
+    "rating": 3,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-last-emperox-scalzi",
+    "title": "The Last Emperox",
+    "author": "John Scalzi",
+    "series": {
+      "name": "The Interdependency",
+      "position": 3
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/9423954-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-consuming-fire-scalzi",
+    "title": "The Consuming Fire",
+    "author": "John Scalzi",
+    "series": {
+      "name": "The Interdependency",
+      "position": 2
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/8788885-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-collapsing-empire-scalzi",
+    "title": "The Collapsing Empire",
+    "author": "John Scalzi",
+    "series": {
+      "name": "The Interdependency",
+      "position": 1
+    },
+    "isbn": "9780765388896",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765388896-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "columbus-day-alanson",
+    "title": "Columbus Day",
+    "author": "Craig Alanson",
+    "series": {
+      "name": "Expeditionary Force",
+      "position": 1
+    },
+    "isbn": "9781520126241",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "memory-s-legion-corey",
+    "title": "Memory's Legion",
+    "author": "James S.A. Corey",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/12674980-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "atmosph-ra-incognita-stephenson",
+    "title": "Atmosphæra Incognita",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9781596069268",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "interface-stephenson",
+    "title": "Interface",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780553383430",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "in-the-beginning-was-the-command-line-stephenson",
+    "title": "In the Beginning...Was the Command Line",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-mongoliad-book-one-stephenson",
+    "title": "The Mongoliad: Book One",
+    "author": "Neal Stephenson",
+    "series": {
+      "name": "Foreworld",
+      "position": 1
+    },
+    "isbn": "9781612187440",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "zodiac-stephenson",
+    "title": "Zodiac",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780553573862",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "quicksilver-stephenson",
+    "title": "Quicksilver",
+    "author": "Neal Stephenson",
+    "series": {
+      "name": "The Baroque Cycle",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-diamond-age-or-a-young-lady-s-illustrated-primer-stephenson",
+    "title": "The Diamond Age: Or, a Young Lady's Illustrated Primer",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780553380965",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "seveneves-stephenson",
+    "title": "Seveneves",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "cryptonomicon-stephenson",
+    "title": "Cryptonomicon",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/6424001-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "fall-or-dodge-in-hell-stephenson",
+    "title": "Fall; or, Dodge in Hell",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780062458711",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "reamde-stephenson",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780061977961",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "system-collapse-wells",
+    "title": "System Collapse",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 7
+    },
+    "isbn": "9781250826978",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781250826978-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ancillary-mercy-leckie",
+    "title": "Ancillary Mercy",
+    "author": "Ann Leckie",
+    "series": {
+      "name": "Imperial Radch",
+      "position": 3
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/7436540-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ancillary-sword-leckie",
+    "title": "Ancillary Sword",
+    "author": "Ann Leckie",
+    "series": {
+      "name": "Imperial Radch",
+      "position": 2
+    },
+    "isbn": "9780316246651",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780316246651-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ancillary-justice-leckie",
+    "title": "Ancillary Justice",
+    "author": "Ann Leckie",
+    "series": {
+      "name": "Imperial Radch",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/7355949-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "and-then-there-were-none-christie",
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "series": null,
+    "isbn": "9780312330873",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780312330873-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "compulsory-wells",
+    "title": "Compulsory",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 0.5
+    },
+    "isbn": "9781645241720",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781645241720-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "a-deepness-in-the-sky-vinge",
+    "title": "A Deepness in the Sky",
+    "author": "Vernor Vinge",
+    "series": {
+      "name": "Zones of Thought",
+      "position": 2
+    },
+    "isbn": "9780812536355",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780812536355-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "untitled-wells",
+    "title": "Untitled",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 9
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "untitled-wells-2",
+    "title": "Untitled",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 8
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "light-bringer-brown",
+    "title": "Light Bringer",
+    "author": "Pierce Brown",
+    "series": {
+      "name": "Red Rising Saga",
+      "position": 6
+    },
+    "isbn": "9781473646803",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781473646803-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "dark-age-brown",
+    "title": "Dark Age",
+    "author": "Pierce Brown",
+    "series": {
+      "name": "Red Rising Saga",
+      "position": 5
+    },
+    "isbn": "9780425285954",
+    "cover_url": "https://covers.openlibrary.org/b/id/8748017-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "iron-gold-brown",
+    "title": "Iron Gold",
+    "author": "Pierce Brown",
+    "series": {
+      "name": "Red Rising Saga",
+      "position": 4
+    },
+    "isbn": "9780425285916",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780425285916-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "morning-star-brown",
+    "title": "Morning Star",
+    "author": "Pierce Brown",
+    "series": {
+      "name": "Red Rising Saga",
+      "position": 3
+    },
+    "isbn": "9780345539847",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780345539847-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "golden-son-brown",
+    "title": "Golden Son",
+    "author": "Pierce Brown",
+    "series": {
+      "name": "Red Rising Saga",
+      "position": 2
+    },
+    "isbn": "9780345539823",
+    "cover_url": "https://covers.openlibrary.org/b/id/8454351-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "red-rising-brown",
+    "title": "Red Rising",
+    "author": "Pierce Brown",
+    "series": {
+      "name": "Red Rising Saga",
+      "position": 1
+    },
+    "isbn": "9780345539786",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780345539786-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "red-god-brown",
+    "title": "Red God",
+    "author": "Pierce Brown",
+    "series": {
+      "name": "Red Rising Saga",
+      "position": 7
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-making-of-the-atomic-bomb-rhodes",
+    "title": "The Making of the Atomic Bomb",
+    "author": "Richard Rhodes",
+    "series": null,
+    "isbn": "9780684813783",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "scaling-people-tactics-for-management-and-company-building-johnson",
+    "title": "Scaling People: Tactics for Management and Company Building",
+    "author": "Claire Hughes Johnson",
+    "series": null,
+    "isbn": "9781953953216",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "an-elegant-puzzle-systems-of-engineering-management-larson",
+    "title": "An Elegant Puzzle: Systems of Engineering Management",
+    "author": "Will Larson",
+    "series": null,
+    "isbn": "9781953953339",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "team-topologies-organizing-business-and-technology-teams-for-fast-flow-skelton",
+    "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
+    "author": "Matthew    Skelton",
+    "series": null,
+    "isbn": "9781942788829",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "designing-data-intensive-applications-kleppmann",
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "user-story-mapping-discover-the-whole-story-build-the-right-product-patton",
+    "title": "User Story Mapping: Discover the Whole Story, Build the Right Product",
+    "author": "Jeff Patton",
+    "series": null,
+    "isbn": "9781491904909",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "radical-focus-achieving-your-most-important-goals-with-objectives-and-key-results-okrs-wodtke",
+    "title": "Radical Focus : Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )",
+    "author": "Christina Wodtke",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "good-strategy-bad-strategy-the-difference-and-why-it-matters-rumelt",
+    "title": "Good Strategy Bad Strategy: The Difference and Why It Matters",
+    "author": "Richard P. Rumelt",
+    "series": null,
+    "isbn": "9780307886255",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "find-your-why-a-practical-guide-to-discovering-purpose-for-you-and-your-team-sinek",
+    "title": "Find Your Why: A Practical Guide to Discovering Purpose for You and Your Team",
+    "author": "Simon Sinek",
+    "series": null,
+    "isbn": "9780143111726",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "great-mondays-how-to-design-a-company-culture-employees-love-levine",
+    "title": "Great Mondays: How to Design a Company Culture Employees Love",
+    "author": "Josh Levine",
+    "series": null,
+    "isbn": "9781260132342",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "radical-candor-be-a-kickass-boss-without-losing-your-humanity-scott",
+    "title": "Radical Candor: Be a Kickass Boss Without Losing Your Humanity",
+    "author": "Kim Malone Scott",
+    "series": null,
+    "isbn": "9781250103505",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-jobs-to-be-done-playbook-align-your-markets-organization-and-strategy-around-customer-needs-kalbach",
+    "title": "The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs",
+    "author": "Jim Kalbach",
+    "series": null,
+    "isbn": "9781933820521",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "escaping-the-build-trap-how-effective-product-management-creates-real-value-perri",
+    "title": "Escaping the Build Trap: How Effective Product Management Creates Real Value",
+    "author": "Melissa Perri",
+    "series": null,
+    "isbn": "9781491973752",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "coaching-agile-teams-a-companion-for-scrummasters-agile-coaches-and-project-managers-in-transition-addison-wesley-signature-series-cohn-adkins",
+    "title": "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition (Addison-Wesley Signature Series (Cohn))",
+    "author": "Lyssa Adkins",
+    "series": null,
+    "isbn": "9780321637703",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "engineering-management-for-the-rest-of-us-drasner",
+    "title": "Engineering Management for the Rest of Us",
+    "author": "Sarah Drasner",
+    "series": null,
+    "isbn": "9798986769318",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-maddaddam-trilogy-oryx-and-crake-the-year-of-the-flood-maddaddam-atwood",
+    "title": "The MaddAddam Trilogy: Oryx and Crake / The Year of the Flood / MaddAddam",
+    "author": "Margaret Atwood",
+    "series": null,
+    "isbn": "9780345808752",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "infinite-jest-wallace",
+    "title": "Infinite Jest",
+    "author": "David Foster Wallace",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-new-york-trilogy-new-york-trilogy-1-3-auster",
+    "title": "The New York Trilogy (New York Trilogy, #1-3)",
+    "author": "Paul Auster",
+    "series": null,
+    "isbn": "9780143039839",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "1q84-1q84-1-3-murakami",
+    "title": "1Q84 (1Q84, #1-3)",
+    "author": "Haruki Murakami",
+    "series": null,
+    "isbn": "9780307593313",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780307593313-M.jpg?default=false",
+    "status": "read",
+    "rating": 3,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "remembrance-of-earth-s-past-the-three-body-trilogy-remembrance-of-earth-s-past-1-3-cixin",
+    "title": "Remembrance of Earth's Past: The Three-Body Trilogy (Remembrance of Earth's Past, #1-3)",
+    "author": "Liu Cixin",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "death-s-end-cixin",
+    "title": "Death's End",
+    "author": "Liu Cixin",
+    "series": {
+      "name": "Remembrance of Earth’s Past",
+      "position": 3
+    },
+    "isbn": "9780765377104",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765377104-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-dark-forest-cixin",
+    "title": "The Dark Forest",
+    "author": "Liu Cixin",
+    "series": {
+      "name": "Remembrance of Earth’s Past",
+      "position": 2
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/10526598-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-three-body-problem-cixin",
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "series": {
+      "name": "Remembrance of Earth’s Past",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/10526598-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "all-clear-willis",
+    "title": "All Clear",
+    "author": "Connie Willis",
+    "series": {
+      "name": "All Clear",
+      "position": 2
+    },
+    "isbn": "9780553807677",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553807677-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "blackout-willis",
+    "title": "Blackout",
+    "author": "Connie Willis",
+    "series": {
+      "name": "All Clear",
+      "position": 1
+    },
+    "isbn": "9780553803198",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553803198-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "rendezvous-with-rama-clarke",
+    "title": "Rendezvous with Rama",
+    "author": "Arthur C. Clarke",
+    "series": {
+      "name": "Rama",
+      "position": 1
+    },
+    "isbn": "9781857231588",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781857231588-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "i-am-legend-matheson",
+    "title": "I Am Legend",
+    "author": "Richard Matheson",
+    "series": null,
+    "isbn": "9780795315633",
+    "cover_url": "https://covers.openlibrary.org/b/id/911109-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-fountains-of-paradise-clarke",
+    "title": "The Fountains of Paradise",
+    "author": "Arthur C. Clarke",
+    "series": null,
+    "isbn": "9780446677943",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780446677943-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days-knapp",
+    "title": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
+    "author": "Jake Knapp",
+    "series": null,
+    "isbn": "9781501121746",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "do-androids-dream-of-electric-sheep-dick",
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/207515-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-collected-stories-of-vernor-vinge-vinge",
+    "title": "The Collected Stories of Vernor Vinge",
+    "author": "Vernor Vinge",
+    "series": null,
+    "isbn": "9780312875848",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-children-of-the-sky-vinge",
+    "title": "The Children of the Sky",
+    "author": "Vernor Vinge",
+    "series": {
+      "name": "Zones of Thought",
+      "position": 3
+    },
+    "isbn": "9780312875626",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780312875626-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "a-fire-upon-the-deep-vinge",
+    "title": "A Fire Upon the Deep",
+    "author": "Vernor Vinge",
+    "series": {
+      "name": "Zones of Thought",
+      "position": 1
+    },
+    "isbn": "9780812515282",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780812515282-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-last-colony-scalzi",
+    "title": "The Last Colony",
+    "author": "John Scalzi",
+    "series": {
+      "name": "Old Man's War",
+      "position": 3
+    },
+    "isbn": "9780765316974",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765316974-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-ghost-brigades-scalzi",
+    "title": "The Ghost Brigades",
+    "author": "John Scalzi",
+    "series": {
+      "name": "Old Man's War",
+      "position": 2
+    },
+    "isbn": "9780765354068",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765354068-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "old-man-s-war-scalzi",
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "series": {
+      "name": "Old Man's War",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/524402-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "all-systems-red-wells",
+    "title": "All Systems Red",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/9157148-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "slaughterhouse-five-jr",
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut Jr.",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/12727001-M.jpg",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-windup-girl-bacigalupi",
+    "title": "The Windup Girl",
+    "author": "Paolo Bacigalupi",
+    "series": null,
+    "isbn": "9781597801577",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781597801577-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-gods-themselves-asimov",
+    "title": "The Gods Themselves",
+    "author": "Isaac Asimov",
+    "series": null,
+    "isbn": "9781857989342",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781857989342-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "anathem-stephenson",
+    "title": "Anathem",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780061474095",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780061474095-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "doomsday-book-willis",
+    "title": "Doomsday Book",
+    "author": "Connie Willis",
+    "series": {
+      "name": "Oxford Time Travel",
+      "position": 1
+    },
+    "isbn": "9780553562736",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "startide-rising-brin",
+    "title": "Startide Rising",
+    "author": "David Brin",
+    "series": {
+      "name": "The Uplift Saga",
+      "position": 2
+    },
+    "isbn": "9780553274189",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "dreamsnake-mcintyre",
+    "title": "Dreamsnake",
+    "author": "Vonda N. McIntyre",
+    "series": null,
+    "isbn": "9780553296594",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "gateway-pohl",
+    "title": "Gateway",
+    "author": "Frederik Pohl",
+    "series": {
+      "name": "Heechee Saga",
+      "position": 1
+    },
+    "isbn": "9780345475831",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-stone-sky-jemisin",
+    "title": "The Stone Sky",
+    "author": "N.K. Jemisin",
+    "series": {
+      "name": "The Broken Earth",
+      "position": 3
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "paladin-of-souls-bujold",
+    "title": "Paladin of Souls",
+    "author": "Lois McMaster Bujold",
+    "series": {
+      "name": "World of the Five Gods",
+      "position": 2
+    },
+    "isbn": "9780380818617",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-calculating-stars-kowal",
+    "title": "The Calculating Stars",
+    "author": "Mary Robinette Kowal",
+    "series": {
+      "name": "Lady Astronaut Universe",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ringworld-s-children-niven",
+    "title": "Ringworld's Children",
+    "author": "Larry Niven",
+    "series": {
+      "name": "Ringworld",
+      "position": 4
+    },
+    "isbn": "9780765341020",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765341020-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-ringworld-throne-niven",
+    "title": "The Ringworld Throne",
+    "author": "Larry Niven",
+    "series": {
+      "name": "Ringworld",
+      "position": 3
+    },
+    "isbn": "9780345412966",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780345412966-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-sins-of-our-fathers-corey",
+    "title": "The Sins of Our Fathers",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 9.5
+    },
+    "isbn": "9780316669078",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "leviathan-falls-corey",
+    "title": "Leviathan Falls",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 9
+    },
+    "isbn": "9780356510392",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780356510392-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-man-in-the-high-castle-dick",
+    "title": "The Man in the High Castle",
+    "author": "Philip K. Dick",
+    "series": null,
+    "isbn": "9780679740674",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "starship-troopers-heinlein",
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "termination-shock-stephenson",
+    "title": "Termination Shock",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780063028050",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "stranger-in-a-strange-land-heinlein",
+    "title": "Stranger in a Strange Land",
+    "author": "Robert A. Heinlein",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "2001-a-space-odyssey-clarke",
+    "title": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke",
+    "series": {
+      "name": "Space Odyssey",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "jurassic-park-crichton",
+    "title": "Jurassic Park",
+    "author": "Michael Crichton",
+    "series": {
+      "name": "Jurassic Park",
+      "position": 1
+    },
+    "isbn": "9780307763051",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "i-robot-asimov",
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "series": {
+      "name": "Robot",
+      "position": 0.1
+    },
+    "isbn": "9780553803709",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-power-of-habit-why-we-do-what-we-do-in-life-and-business-duhigg",
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "author": "Charles Duhigg",
+    "series": null,
+    "isbn": "9781400069286",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything-levitt",
+    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+    "author": "Steven D. Levitt",
+    "series": null,
+    "isbn": "9780061234002",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "outliers-the-story-of-success-gladwell",
+    "title": "Outliers: The Story of Success",
+    "author": "Malcolm Gladwell",
+    "series": null,
+    "isbn": "9780316017923",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "think-again-the-power-of-knowing-what-you-don-t-know-grant",
+    "title": "Think Again: The Power of Knowing What You Don't Know",
+    "author": "Adam M. Grant",
+    "series": null,
+    "isbn": "9781984878106",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-tipping-point-how-little-things-can-make-a-big-difference-gladwell",
+    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "author": "Malcolm Gladwell",
+    "series": null,
+    "isbn": "9780316346627",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-4-hour-workweek-ferriss",
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "series": null,
+    "isbn": "9780307353139",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780307353139-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "how-to-win-friends-influence-people-carnegie",
+    "title": "How to Win Friends & Influence People",
+    "author": "Dale Carnegie",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/13314878-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know-gladwell",
+    "title": "Talking to Strangers: What We Should Know About the People We Don't Know",
+    "author": "Malcolm Gladwell",
+    "series": null,
+    "isbn": "9780316478526",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "zero-to-one-notes-on-startups-or-how-to-build-the-future-thiel",
+    "title": "Zero to One: Notes on Startups, or How to Build the Future",
+    "author": "Peter Thiel",
+    "series": null,
+    "isbn": "9780804139298",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-lean-startup-ries",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "series": null,
+    "isbn": "9780307887894",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780307887894-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-count-of-monte-cristo-dumas",
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "series": null,
+    "isbn": "9780140449266",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-odyssey-homer",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "series": null,
+    "isbn": "9780143039952",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-scarlet-letter-hawthorne",
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "series": null,
+    "isbn": "9780142437261",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "a-tale-of-two-cities-dickens",
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "series": null,
+    "isbn": "9780141439600",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-handmaid-s-tale-atwood",
+    "title": "The Handmaid’s Tale",
+    "author": "Margaret Atwood",
+    "series": {
+      "name": "The Handmaid's Tale",
+      "position": 1
+    },
+    "isbn": "9780385490818",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "dracula-stoker",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "series": null,
+    "isbn": "9780393970128",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "frankenstein-the-1818-text-shelley",
+    "title": "Frankenstein: The 1818 Text",
+    "author": "Mary Wollstonecraft Shelley",
+    "series": null,
+    "isbn": "9780143131847",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "wuthering-heights-bronte",
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "jane-eyre-bronte",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "series": null,
+    "isbn": "9780142437209",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "pride-and-prejudice-austen",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "series": null,
+    "isbn": "9781441341709",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-girl-who-kicked-the-hornet-s-nest-larsson",
+    "title": "The Girl Who Kicked the Hornet’s Nest",
+    "author": "Stieg Larsson",
+    "series": {
+      "name": "Millennium",
+      "position": 3
+    },
+    "isbn": "9780307269997",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780307269997-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "fight-club-palahniuk",
+    "title": "Fight Club",
+    "author": "Chuck Palahniuk",
+    "series": null,
+    "isbn": "9780393355949",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780393355949-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-girl-who-played-with-fire-larsson",
+    "title": "The Girl Who Played With Fire",
+    "author": "Stieg Larsson",
+    "series": {
+      "name": "Millennium",
+      "position": 2
+    },
+    "isbn": "9780307269980",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780307269980-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "american-gods-gaiman",
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/8494659-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "angels-demons-brown",
+    "title": "Angels & Demons",
+    "author": "Dan    Brown",
+    "series": {
+      "name": "Robert Langdon",
+      "position": 1
+    },
+    "isbn": "9781416524793",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781416524793-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-curious-incident-of-the-dog-in-the-night-time-haddon",
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "author": "Mark Haddon",
+    "series": null,
+    "isbn": "9781400032716",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781400032716-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-girl-with-the-dragon-tattoo-larsson",
+    "title": "The Girl With the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "series": {
+      "name": "Millennium",
+      "position": 1
+    },
+    "isbn": "9780670069019",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780670069019-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "harry-potter-and-the-order-of-the-phoenix-rowling",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "series": {
+      "name": "Harry Potter",
+      "position": 5
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/15158666-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "harry-potter-and-the-half-blood-prince-rowling",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "series": {
+      "name": "Harry Potter",
+      "position": 6
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/10716273-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "harry-potter-and-the-deathly-hallows-rowling",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "series": {
+      "name": "Harry Potter",
+      "position": 7
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/15158660-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "harry-potter-and-the-goblet-of-fire-rowling",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "series": {
+      "name": "Harry Potter",
+      "position": 4
+    },
+    "isbn": "9780439139595",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780439139595-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "harry-potter-and-the-chamber-of-secrets-rowling",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "series": {
+      "name": "Harry Potter",
+      "position": 2
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/15158664-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-da-vinci-code-brown",
+    "title": "The da Vinci Code",
+    "author": "Dan    Brown",
+    "series": {
+      "name": "Robert Langdon",
+      "position": 2
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/9255229-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "children-of-the-mind-card",
+    "title": "Children of the Mind",
+    "author": "Orson Scott Card",
+    "series": {
+      "name": "Ender's Saga",
+      "position": 4
+    },
+    "isbn": "9780765304742",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780765304742-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "foundation-s-edge-asimov",
+    "title": "Foundation's Edge",
+    "author": "Isaac Asimov",
+    "series": {
+      "name": "Foundation",
+      "position": 4
+    },
+    "isbn": "9780553293388",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553293388-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-ringworld-engineers-niven",
+    "title": "The Ringworld Engineers",
+    "author": "Larry Niven",
+    "series": {
+      "name": "Ringworld",
+      "position": 2
+    },
+    "isbn": "9780345418418",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780345418418-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "artemis-weir",
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "series": null,
+    "isbn": "9780553448122",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553448122-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "fugitive-telemetry-wells",
+    "title": "Fugitive Telemetry",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 6
+    },
+    "isbn": "9781250765376",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781250765376-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "network-effect-wells",
+    "title": "Network Effect",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 5
+    },
+    "isbn": "9781250229861",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781250229861-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "exit-strategy-wells",
+    "title": "Exit Strategy",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 4
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "rogue-protocol-wells",
+    "title": "Rogue Protocol",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 3
+    },
+    "isbn": "9781250191786",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781250191786-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "artificial-condition-wells",
+    "title": "Artificial Condition",
+    "author": "Martha Wells",
+    "series": {
+      "name": "The Murderbot Diaries",
+      "position": 2
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ready-player-one-cline",
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "series": {
+      "name": "Ready Player One",
+      "position": 1
+    },
+    "isbn": "9780307887436",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780307887436-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ringworld-niven",
+    "title": "Ringworld",
+    "author": "Larry Niven",
+    "series": {
+      "name": "Ringworld",
+      "position": 1
+    },
+    "isbn": "9780575077027",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780575077027-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "measure-what-matters-doerr",
+    "title": "Measure What Matters",
+    "author": "John Doerr",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/10706481-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-yiddish-policemen-s-union-chabon",
+    "title": "The Yiddish Policemen's Union",
+    "author": "Michael Chabon",
+    "series": null,
+    "isbn": "9780007149827",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780007149827-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-forever-war-haldeman",
+    "title": "The Forever War",
+    "author": "Joe Haldeman",
+    "series": {
+      "name": "The Forever War",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/10693768-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-veldt-bradbury",
+    "title": "The Veldt",
+    "author": "Ray Bradbury",
+    "series": null,
+    "isbn": "9780886821081",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780886821081-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-hobbit-dixon",
+    "title": "The Hobbit",
+    "author": "Chuck Dixon",
+    "series": null,
+    "isbn": "9780345368584",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780345368584-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-lord-of-the-rings-the-trilogy-sibley",
+    "title": "The Lord of the Rings: The Trilogy",
+    "author": "Brian Sibley",
+    "series": null,
+    "isbn": "9780563528883",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780563528883-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-design-of-everyday-things-norman",
+    "title": "The Design of Everyday Things",
+    "author": "Donald A. Norman",
+    "series": null,
+    "isbn": "9780465067107",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780465067107-M.jpg?default=false",
+    "status": "read",
+    "rating": 1,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "project-hail-mary-weir",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "series": null,
+    "isbn": "9780593135204",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ready-player-two-cline",
+    "title": "Ready Player Two",
+    "author": "Ernest Cline",
+    "series": {
+      "name": "Ready Player One",
+      "position": 2
+    },
+    "isbn": "9781524761332",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781524761332-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "harry-potter-and-the-prisoner-of-azkaban-rowling",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "series": {
+      "name": "Harry Potter",
+      "position": 3
+    },
+    "isbn": "9780439655484",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780439655484-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "xenocide-card",
+    "title": "Xenocide",
+    "author": "Orson Scott Card",
+    "series": {
+      "name": "Ender's Saga",
+      "position": 3
+    },
+    "isbn": "9780312861872",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780312861872-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-martian-weir",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "series": null,
+    "isbn": "9780804139021",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780804139021-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-illustrated-man-bradbury",
+    "title": "The Illustrated Man",
+    "author": "Ray Bradbury",
+    "series": null,
+    "isbn": "9780007127740",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780007127740-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "red-mars-robinson",
+    "title": "Red Mars",
+    "author": "Kim Stanley Robinson",
+    "series": {
+      "name": "Mars Trilogy",
+      "position": 1
+    },
+    "isbn": "9780553560732",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553560732-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-two-towers-tolkien",
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "series": {
+      "name": "The Lord of the Rings",
+      "position": 2
+    },
+    "isbn": "9780618346264",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780618346264-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-return-of-the-king-tolkien",
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "series": {
+      "name": "The Lord of the Rings",
+      "position": 3
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/14627062-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-hobbit-or-there-and-back-again-tolkien",
+    "title": "The Hobbit, or There and Back Again",
+    "author": "J.R.R. Tolkien",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-dispossessed-an-ambiguous-utopia-guin",
+    "title": "The Dispossessed: An Ambiguous Utopia",
+    "author": "Ursula K. Le Guin",
+    "series": null,
+    "isbn": null,
+    "cover_url": null,
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-left-hand-of-darkness-guin",
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/10618463-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-lord-of-the-rings-tolkien",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "series": null,
+    "isbn": "9780618640157",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780618640157-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "snow-crash-stephenson",
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "series": null,
+    "isbn": "9780553380958",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553380958-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "speaker-for-the-dead-card",
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "series": {
+      "name": "Ender's Saga",
+      "position": 2
+    },
+    "isbn": "9780812550757",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780812550757-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-giver-lowry",
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "series": {
+      "name": "The Giver",
+      "position": 1
+    },
+    "isbn": "9780385732550",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780385732550-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-ultimate-hitchhiker-s-guide-to-the-galaxy-hitchhiker-s-guide-to-the-galaxy-1-5-adams",
+    "title": "The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",
+    "author": "Douglas Adams",
+    "series": null,
+    "isbn": "9780345453747",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780345453747-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "ender-s-game-card",
+    "title": "Ender’s Game",
+    "author": "Orson Scott Card",
+    "series": {
+      "name": "Ender's Saga",
+      "position": 1
+    },
+    "isbn": "9780812550702",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780812550702-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "abaddon-s-gate-corey",
+    "title": "Abaddon’s Gate",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 3
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/8624248-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "cibola-burn-corey",
+    "title": "Cibola Burn",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 4
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/7610576-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "nemesis-games-corey",
+    "title": "Nemesis Games",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 5
+    },
+    "isbn": "9780316217590",
+    "cover_url": "https://covers.openlibrary.org/b/id/8036735-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "babylon-s-ashes-corey",
+    "title": "Babylon’s Ashes",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 6
+    },
+    "isbn": "9780356504261",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780356504261-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "persepolis-rising-corey",
+    "title": "Persepolis Rising",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 7
+    },
+    "isbn": "9780316332828",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780316332828-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "tiamat-s-wrath-corey",
+    "title": "Tiamat's Wrath",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 8
+    },
+    "isbn": "9780316332873",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780316332873-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "hyperion-simmons",
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "series": {
+      "name": "Hyperion Cantos",
+      "position": 1
+    },
+    "isbn": "9780553283686",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553283686-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-fall-of-hyperion-simmons",
+    "title": "The Fall of Hyperion",
+    "author": "Dan Simmons",
+    "series": {
+      "name": "Hyperion Cantos",
+      "position": 2
+    },
+    "isbn": "9780553288209",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553288209-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "endymion-simmons",
+    "title": "Endymion",
+    "author": "Dan Simmons",
+    "series": {
+      "name": "Hyperion Cantos",
+      "position": 3
+    },
+    "isbn": "9780553572940",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553572940-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-rise-of-endymion-simmons",
+    "title": "The Rise of Endymion",
+    "author": "Dan Simmons",
+    "series": {
+      "name": "Hyperion Cantos",
+      "position": 4
+    },
+    "isbn": "9780553572988",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553572988-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "foundation-and-earth-asimov",
+    "title": "Foundation and Earth",
+    "author": "Isaac Asimov",
+    "series": {
+      "name": "Foundation",
+      "position": 5
+    },
+    "isbn": "9780553587579",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553587579-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "prelude-to-foundation-asimov",
+    "title": "Prelude to Foundation",
+    "author": "Isaac Asimov",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/12816973-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "forward-the-foundation-asimov",
+    "title": "Forward the Foundation",
+    "author": "Isaac Asimov",
+    "series": {
+      "name": "Foundation",
+      "position": 7
+    },
+    "isbn": "9780553565072",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553565072-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "caliban-s-war-corey",
+    "title": "Caliban’s War",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 2
+    },
+    "isbn": "9781841499901",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781841499901-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "count-zero-gibson",
+    "title": "Count Zero",
+    "author": "William Gibson",
+    "series": {
+      "name": "Sprawl",
+      "position": 2
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/284322-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "mona-lisa-overdrive-gibson",
+    "title": "Mona Lisa Overdrive",
+    "author": "William Gibson",
+    "series": {
+      "name": "Sprawl",
+      "position": 3
+    },
+    "isbn": "9780553281743",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553281743-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "leviathan-wakes-corey",
+    "title": "Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "series": {
+      "name": "The Expanse",
+      "position": 1
+    },
+    "isbn": "9781841499888",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781841499888-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "every-tool-s-a-hammer-life-is-what-you-make-it-savage",
+    "title": "Every Tool's a Hammer: Life Is What You Make It",
+    "author": "Adam Savage",
+    "series": null,
+    "isbn": "9781982113490",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-five-dysfunctions-of-a-team-lencioni",
+    "title": "The Five Dysfunctions of a Team",
+    "author": "Patrick Lencioni",
+    "series": null,
+    "isbn": "9780787960759",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-culture-code-the-secrets-of-highly-successful-groups-coyle",
+    "title": "The Culture Code: The Secrets of Highly Successful Groups",
+    "author": "Daniel Coyle",
+    "series": null,
+    "isbn": "9780804176989",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-shadow-of-the-torturer-wolfe",
+    "title": "The Shadow of the Torturer",
+    "author": "Gene Wolfe",
+    "series": {
+      "name": "The Book of the New Sun",
+      "position": 1
+    },
+    "isbn": "9780671540661",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "new-moon-mcdonald",
+    "title": "New Moon",
+    "author": "Ian McDonald",
+    "series": {
+      "name": "Luna",
+      "position": 1
+    },
+    "isbn": "9780765375513",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "downbelow-station-cherryh",
+    "title": "Downbelow Station",
+    "author": "C.J. Cherryh",
+    "series": {
+      "name": "The Company Wars",
+      "position": 1
+    },
+    "isbn": "9780756400590",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-most-dangerous-game-connell",
+    "title": "The Most Dangerous Game",
+    "author": "Richard Connell",
+    "series": null,
+    "isbn": "9781599869698",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "kitchen-confidential-adventures-in-the-culinary-underbelly-bourdain",
+    "title": "Kitchen Confidential: Adventures in the Culinary Underbelly",
+    "author": "Anthony Bourdain",
+    "series": null,
+    "isbn": "9780060899226",
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "orphans-of-the-helix-simmons",
+    "title": "Orphans of the Helix",
+    "author": "Dan Simmons",
+    "series": {
+      "name": "Hyperion Cantos",
+      "position": 4.5
+    },
+    "isbn": null,
+    "cover_url": null,
+    "status": "to-read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "chapterhouse-dune-herbert",
+    "title": "Chapterhouse: Dune",
+    "author": "Frank Herbert",
+    "series": {
+      "name": "Dune",
+      "position": 6
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/5536140-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "heretics-of-dune-herbert",
+    "title": "Heretics of Dune",
+    "author": "Frank Herbert",
+    "series": {
+      "name": "Dune",
+      "position": 5
+    },
+    "isbn": "9780441328000",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780441328000-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "god-emperor-of-dune-herbert",
+    "title": "God Emperor of Dune",
+    "author": "Frank Herbert",
+    "series": {
+      "name": "Dune",
+      "position": 4
+    },
+    "isbn": "9780575075061",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780575075061-M.jpg?default=false",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "children-of-dune-herbert",
+    "title": "Children of Dune",
+    "author": "Frank Herbert",
+    "series": {
+      "name": "Dune",
+      "position": 3
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/6976407-M.jpg",
+    "status": "read",
+    "rating": null,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-lottery-jackson",
+    "title": "The Lottery",
+    "author": "Shirley Jackson",
+    "series": null,
+    "isbn": "9781563127878",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781563127878-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-tell-tale-heart-poe",
+    "title": "The Tell-Tale Heart",
+    "author": "Edgar Allan Poe",
+    "series": null,
+    "isbn": "9780871917720",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780871917720-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-monkey-s-paw-oxford-bookworms-mowat",
+    "title": "The Monkey's Paw (Oxford Bookworms)",
+    "author": "Diane Mowat",
+    "series": null,
+    "isbn": "9780194232630",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780194232630-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-lottery-and-other-stories-jackson",
+    "title": "The Lottery and Other Stories",
+    "author": "Shirley Jackson",
+    "series": null,
+    "isbn": "9780374529536",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780374529536-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-hitchhiker-s-guide-to-the-galaxy-adams",
+    "title": "The Hitchhiker’s Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "series": {
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/11972784-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "neuromancer-gibson",
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "series": {
+      "name": "Sprawl",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/283860-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "dune-messiah-herbert",
+    "title": "Dune Messiah",
+    "author": "Frank Herbert",
+    "series": {
+      "name": "Dune Chronicles",
+      "position": 2
+    },
+    "isbn": "9780441172696",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780441172696-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "dune-herbert",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "series": {
+      "name": "Dune",
+      "position": 1
+    },
+    "isbn": "9780340839935",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780340839935-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-foundation-trilogy-foundation-1-3-asimov",
+    "title": "The Foundation Trilogy (Foundation, #1-3)",
+    "author": "Isaac Asimov",
+    "series": null,
+    "isbn": "9780380508563",
+    "cover_url": null,
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "second-foundation-asimov",
+    "title": "Second Foundation",
+    "author": "Isaac Asimov",
+    "series": {
+      "name": "Foundation",
+      "position": 3
+    },
+    "isbn": "9780553803730",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553803730-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "foundation-and-empire-asimov",
+    "title": "Foundation and Empire",
+    "author": "Isaac Asimov",
+    "series": {
+      "name": "Foundation",
+      "position": 2
+    },
+    "isbn": "9780553803723",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553803723-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "foundation-asimov",
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "series": {
+      "name": "Foundation",
+      "position": 1
+    },
+    "isbn": "9780553803716",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553803716-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "no-logo-klein",
+    "title": "No Logo",
+    "author": "Naomi Klein",
+    "series": null,
+    "isbn": "9780312421434",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780312421434-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-shock-doctrine-the-rise-of-disaster-capitalism-klein",
+    "title": "The Shock Doctrine: The Rise of Disaster Capitalism",
+    "author": "Naomi Klein",
+    "series": null,
+    "isbn": "9780805079838",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780805079838-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-fountainhead-rand",
+    "title": "The Fountainhead",
+    "author": "Ayn Rand",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/6767765-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "atlas-shrugged-rand",
+    "title": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "series": null,
+    "isbn": "9780452011878",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780452011878-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "harry-potter-and-the-sorcerer-s-stone-rowling",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "series": {
+      "name": "Harry Potter",
+      "position": 1
+    },
+    "isbn": "9780439554930",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780439554930-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-importance-of-being-earnest-wilde",
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "series": null,
+    "isbn": "9781580495806",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781580495806-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "east-of-eden-steinbeck",
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "series": null,
+    "isbn": "9780142000656",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780142000656-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "heart-of-darkness-conrad",
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "series": null,
+    "isbn": "9781892295491",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9781892295491-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "catch-22-heller",
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "series": null,
+    "isbn": "9780684833392",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780684833392-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "treasure-island-stevenson",
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "series": null,
+    "isbn": "9780753453803",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780753453803-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-fellowship-of-the-ring-tolkien",
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "series": {
+      "name": "The Lord of the Rings",
+      "position": 1
+    },
+    "isbn": "9780618346257",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780618346257-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-grapes-of-wrath-steinbeck",
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "series": null,
+    "isbn": "9780670016907",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780670016907-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "alice-s-adventures-in-wonderland-carroll",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "series": {
+      "name": "Alice's Adventures in Wonderland",
+      "position": 1
+    },
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/10527843-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "hamlet-shakespeare",
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "series": null,
+    "isbn": "9780521618748",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780521618748-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-hobbit-part-one-tolkien",
+    "title": "The Hobbit, Part One",
+    "author": "J.R.R. Tolkien",
+    "series": null,
+    "isbn": "9780007926664",
+    "cover_url": null,
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "brave-new-world-huxley",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "series": null,
+    "isbn": "9780060929879",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780060929879-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-picture-of-dorian-gray-wilde",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/14314858-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "of-mice-and-men-steinbeck",
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "series": null,
+    "isbn": "9780142000670",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780142000670-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "lord-of-the-flies-golding",
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "series": null,
+    "isbn": "9780140283334",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780140283334-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "fahrenheit-451-bradbury",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/12993656-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "romeo-and-juliet-shakespeare",
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "series": null,
+    "isbn": "9780743477116",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780743477116-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-little-prince-saint-exupery",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "series": null,
+    "isbn": "9780152023980",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780152023980-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-catcher-in-the-rye-salinger",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "series": null,
+    "isbn": "9780316769174",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780316769174-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "1984-orwell",
+    "title": "1984",
+    "author": "George Orwell",
+    "series": null,
+    "isbn": null,
+    "cover_url": "https://covers.openlibrary.org/b/id/8745958-M.jpg",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-martian-chronicles-bradbury",
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "series": null,
+    "isbn": "9780553278224",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780553278224-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "animal-farm-orwell",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "series": null,
+    "isbn": "9780451526342",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780451526342-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "the-great-gatsby-fitzgerald",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "series": null,
+    "isbn": "9780743273565",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780743273565-M.jpg?default=false",
+    "status": "read",
+    "rating": 5,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  },
+  {
+    "id": "to-kill-a-mockingbird-lee",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "series": null,
+    "isbn": "9780060935467",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780060935467-M.jpg?default=false",
+    "status": "read",
+    "rating": 4,
+    "date_started": null,
+    "date_finished": null,
+    "tags": []
+  }
+]

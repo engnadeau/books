@@ -1,0 +1,22 @@
+{
+  "name": "books",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "import": "tsx scripts/import-goodreads.ts",
+    "covers": "tsx scripts/fetch-covers.ts"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "csv-parse": "^5.5.6",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
