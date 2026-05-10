@@ -190,3 +190,25 @@ input[type="search"]:focus {
   text-align: center;
   color: var(--fg-muted);
 }
+
+.site-footer {
+  margin-top: 64px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--fg-muted);
+}
+
+.site-footer a {
+  color: var(--fg-muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--border);
+}
+
+.site-footer a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}

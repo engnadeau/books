@@ -55,6 +55,16 @@ const { books } = Astro.props;
 </div>
 <div class="empty" id="empty-state" hidden>No books match your search.</div>
 
+<footer class="site-footer">
+  <a href="llms.txt">llms.txt</a>
+  <span aria-hidden="true">·</span>
+  <a href="llms-full.txt">llms-full.txt</a>
+  <span aria-hidden="true">·</span>
+  <a href="https://raw.githubusercontent.com/engnadeau/books/main/books.json">books.json</a>
+  <span aria-hidden="true">·</span>
+  <a href="https://github.com/engnadeau/books">source</a>
+</footer>
+
 <script>
   const grid = document.getElementById("book-grid") as HTMLElement;
   const searchInput = document.getElementById("search") as HTMLInputElement;
